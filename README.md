@@ -1,3 +1,3 @@
 # ECNO628.hw7
-This is meant for Question 1-c homework 7
-It has a file on a Monte-Carlo
+This is meant for Q1c hw7
+It has a file on a Monte-Carlo for Menzel's Estimator
